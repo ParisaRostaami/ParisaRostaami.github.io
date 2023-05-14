@@ -12,8 +12,8 @@ const config = {
   },
   social: {
     linkedin: 'parisa-rostami',
-//     twitter: 'arif_szn',
-//     mastodon: 'arifszn@mastodon.social',
+    twitter: '',
+    mastodon: '',
     facebook: '',
     instagram: '',
     dribbble: '',
@@ -99,7 +99,7 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: '',
       description:
         ' ',
       imageUrl: ' ',
