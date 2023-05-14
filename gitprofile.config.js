@@ -82,34 +82,34 @@ const config = {
     {
       title: 'Project Name',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        ' ',
+      imageUrl: ' ',
+      link: ' ',
     },
-    {
-      title: 'Project Name',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
-    },
+//     {
+//       title: ' ',
+//       description:
+//         ' ',
+//       imageUrl: 'https://via.placeholder.com/250x250',
+//       link: 'https://example.com',
+//     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
-  blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
-    limit: 2, // How many posts to display. Max is 10.
-  },
-  googleAnalytics: {
-    id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
-  },
-  // Track visitor interaction and behavior. https://www.hotjar.com
-  hotjar: {
-    id: '',
-    snippetVersion: 6,
-  },
+//   blog: {
+//     source: 'dev', // medium | dev
+//     username: 'arifszn', // to hide blog section, keep it empty
+//     limit: 2, // How many posts to display. Max is 10.
+//   },
+//   googleAnalytics: {
+//     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
+//   },
+//   // Track visitor interaction and behavior. https://www.hotjar.com
+//   hotjar: {
+//     id: '',
+//     snippetVersion: 6,
+//   },
   themeConfig: {
-    defaultTheme: 'winter',
+    defaultTheme: 'valentine',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
@@ -124,36 +124,36 @@ const config = {
 
     // Available themes. To remove any theme, exclude from here.
     themes: [
-//       'light',
-//       'dark',
-//       'cupcake',
-//       'bumblebee',
-//       'emerald',
-//       'corporate',
-//       'synthwave',
-//       'retro',
-//       'cyberpunk',
+      'light',
+      'dark',
+      'cupcake',
+      'bumblebee',
+      'emerald',
+      'corporate',
+      'synthwave',
+      'retro',
+      'cyberpunk',
       'valentine',
-//       'halloween',
-//       'garden',
-//       'forest',
-//       'aqua',
-//       'lofi',
-//       'pastel',
-//       'fantasy',
-//       'wireframe',
-//       'black',
-//       'luxury',
-//       'dracula',
-//       'cmyk',
-//       'autumn',
-//       'business',
-//       'acid',
-//       'lemonade',
-//       'night',
-//       'coffee',
-//       'winter',
-//       'procyon',
+      'halloween',
+      'garden',
+      'forest',
+      'aqua',
+      'lofi',
+      'pastel',
+      'fantasy',
+      'wireframe',
+      'black',
+      'luxury',
+      'dracula',
+      'cmyk',
+      'autumn',
+      'business',
+      'acid',
+      'lemonade',
+      'night',
+      'coffee',
+      'winter',
+      'procyon',
     ],
 
     // Custom theme
