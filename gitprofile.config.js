@@ -60,14 +60,33 @@ const config = {
       companyLink: 'https://example.com',
     },
   ],
-  /* certifications: [
+  certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com'
+      name: 'Robotics Teaching Qualification',
+      body: 'Robotics and Mechatronic Union of Iran (NURMSA)',
+      year: 'September 2022',
+      link: 'https://certificate.robodars.com/'
     },
-  ], */
+    {
+      name: 'Machine Learning',
+      body: 'Coursera',
+      year: 'Augest 2022',
+      link: 'https://www.coursera.org/share/7ee9fe76906c224b8516c88784707bd4'
+    },
+    {
+      name: 'Advanced NLP with spaCy',
+      body: 'DataCamp',
+      year: 'July 2022',
+      link: 'https://www.datacamp.com/statement-of-accomplishment/course/d7ad06e53564f424aee8aad6c5b2790de7746383?raw=1'
+    },
+
+    {
+      name: 'Natural Language Processing',
+      body: 'Coursera',
+      year: 'March 2023',
+      link: 'https://www.coursera.org/share/'
+    },
+  ], 
   education: [
     {
       institution: 'University of Science and Technology of Mazandaran',
