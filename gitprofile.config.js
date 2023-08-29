@@ -6,8 +6,8 @@ const config = {
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
-      forks: false, // Forked projects will not be displayed if set to true.
-      projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+      forks: true, // Forked projects will not be displayed if set to true.
+      projects: ['ParisaRostaami', 'ParisaRostaami.github.io', 'Hands-On-Data-Science-and-Python-Machine-Learning'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
@@ -25,16 +25,17 @@ const config = {
     telegram: '',
     website: 'https://ParisaRostaami.github.io',
     phone: '',
-    email: 'Parisarostaamii@gmail.com',
+    email: 'Parisa.rostaamii@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
     'Java',
     'Matlab',
+    'SQL',
     'HTML',
     'CSS',
     'NumPy',
@@ -46,18 +47,18 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: 'USTM AI Research Group',
+      position: 'Undergraduate Research Assistant',
+      from: 'Jun 2018',
+      to: 'Feb 2023',
+      // companyLink: 'https://example.com',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'COHB lab Research Group ',
+      position: 'Remote Research Assistant - Intern',
+      from: 'Nov 2022',
+      to: 'May 2023',
+      // companyLink: 'https://example.com',
     },
   ],
   certifications: [
@@ -68,23 +69,23 @@ const config = {
       link: 'https://certificate.robodars.com/'
     },
     {
-      name: 'Machine Learning',
+      name: 'Machine Learning Specialization',
       body: 'Coursera',
-      year: 'Augest 2022',
+      year: 'August 2022',
       link: 'https://www.coursera.org/share/7ee9fe76906c224b8516c88784707bd4'
     },
     {
-      name: 'Advanced NLP with spaCy',
-      body: 'DataCamp',
-      year: 'July 2022',
-      link: 'https://www.datacamp.com/statement-of-accomplishment/course/d7ad06e53564f424aee8aad6c5b2790de7746383?raw=1'
+      name: ' Mathematics for Machine Learning and Data Science Specialization',
+      body: 'Coursera',
+      year: 'August 2023',
+      link: 'https://coursera.org/verify/specialization/68KLP87VJQEM'
     },
 
     {
-      name: 'Natural Language Processing',
+      name: 'Natural Language Processing Specialization',
       body: 'Coursera',
       year: 'March 2023',
-      link: 'https://www.coursera.org/share/'
+      link: 'https://coursera.org/verify/specialization/2E63A8EPQ9H6'
     },
   ], 
   education: [
