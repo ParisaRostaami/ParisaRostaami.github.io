@@ -16,7 +16,7 @@ const config = {
     id: '',
     snippetVersion: 6,
   },
-};
+},
   social: {
     linkedin: 'parisa-rostami',
     twitter: '',
