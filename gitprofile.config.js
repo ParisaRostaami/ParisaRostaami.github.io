@@ -13,6 +13,14 @@ const config = {
     id: '',
     snippetVersion: 6,
     },
+      education: [
+    {
+      institution: 'University of Science and Technology of Mazandaran',
+      degree: 'B.Sc. Computer Engineering',
+      from: '2017',
+      to: '2022',
+    },
+  ],
   },
   social: {
     linkedin: 'parisa-rostami',
@@ -114,14 +122,7 @@ const config = {
       link: 'https://coursera.org/verify/specialization/2E63A8EPQ9H6'
     },
   ], 
-  education: [
-    {
-      institution: 'University of Science and Technology of Mazandaran',
-      degree: 'B.Sc. Computer Engineering',
-      from: '2017',
-      to: '2022',
-    },
-  ],
+
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
