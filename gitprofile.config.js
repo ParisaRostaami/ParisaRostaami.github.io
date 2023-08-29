@@ -9,7 +9,14 @@ const config = {
       forks: true, // Forked projects will not be displayed if set to true.
       projects: ['ParisaRostaami', 'ParisaRostaami.github.io', 'Hands-On-Data-Science-and-Python-Machine-Learning'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
+  };
+  const config = {
+  // ...
+  hotjar: {
+    id: '',
+    snippetVersion: 6,
   },
+};
   social: {
     linkedin: 'parisa-rostami',
     twitter: '',
