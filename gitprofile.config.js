@@ -135,7 +135,7 @@ const config = {
 //       imageUrl: 'https://via.placeholder.com/250x250',
 //       link: 'https://example.com',
 //     },
-  ],
+  // ],
   // Display blog posts from your medium or dev account. (Optional)
 //   blog: {
 //     source: 'dev', // medium | dev
