@@ -13,12 +13,6 @@ const config = {
     id: '',
     snippetVersion: 6,
     },
-  education: {
-    institution: 'University of Science and Technology of Mazandaran',
-    degree: 'B.Sc. Computer Engineering',
-    from: '2017',
-    to: '2022',
-    },
   },
   social: {
     linkedin: 'parisa-rostami',
@@ -54,6 +48,14 @@ const config = {
     'Pytorch',
     'Git',
     'Jupyter Lab',
+  ],
+    education: [
+    {
+    institution: 'University of Science and Technology of Mazandaran',
+    degree: 'B.Sc. Computer Engineering',
+    from: '2017',
+    to: '2022',
+    },
   ],
   experiences: [
     {
