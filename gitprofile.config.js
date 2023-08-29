@@ -60,6 +60,28 @@ const config = {
       to: 'May 2023',
       // companyLink: 'https://example.com',
     },
+    {
+      company: 'University of Science and Technology of Mazandaran and Kharazmi University',
+      position: 'Course Instructor ',
+      from: ' Sep 2021',
+      to: 'May 2023',
+      // companyLink: ' ',
+    },
+    {
+      company: 'University of Science and Technology of Mazandaran',
+      position: 'Teaching Assistant',
+      from: 'Sep 2020',
+      to: 'Jun 2022',
+      // companyLink: ' ',
+    },
+    {
+      company: 'University of Science and Technology of Mazandaran',
+      position: 'Co-Founder of USTM AI School',
+      from: 'Jan 2021',
+      to: 'Feb 2022',
+      // companyLink: ' ',
+    },
+
   ],
   certifications: [
     {
@@ -98,14 +120,14 @@ const config = {
   ],
 
   // To hide the `My Projects` section, keep it empty.
-  externalProjects: [
-    {
-      title: '',
-      description:
-        ' ',
-      imageUrl: ' ',
-      link: ' ',
-    },
+  // externalProjects: [
+  //   {
+  //     title: '',
+  //     description:
+  //       ' ',
+  //     imageUrl: ' ',
+  //     link: ' ',
+  //   },
 //     {
 //       title: ' ',
 //       description:
