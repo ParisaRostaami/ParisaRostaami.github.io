@@ -120,14 +120,14 @@ const config = {
   ],
 
   // To hide the `My Projects` section, keep it empty.
-  // externalProjects: [
-  //   {
-  //     title: '',
-  //     description:
-  //       ' ',
-  //     imageUrl: ' ',
-  //     link: ' ',
-  //   },
+  externalProjects: [
+    {
+      title: '',
+      description:
+        ' ',
+      imageUrl: ' ',
+      link: ' ',
+    },
 //     {
 //       title: ' ',
 //       description:
@@ -135,7 +135,7 @@ const config = {
 //       imageUrl: 'https://via.placeholder.com/250x250',
 //       link: 'https://example.com',
 //     },
-  // ],
+  ],
   // Display blog posts from your medium or dev account. (Optional)
 //   blog: {
 //     source: 'dev', // medium | dev
