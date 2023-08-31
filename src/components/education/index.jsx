@@ -40,6 +40,7 @@ const Education = ({ loading, education }) => {
 
   return (
     <>
+    <div className="flex justify-center items-center h-screen">
       {education?.length !== 0 && (
         <div className="card shadow-lg compact bg-base-100">
           <div className="card-body">
@@ -74,6 +75,7 @@ const Education = ({ loading, education }) => {
             </div>
           </div>
         </div>
+    </div>
       )}
     </>
   );
