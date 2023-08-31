@@ -74,7 +74,6 @@ const Education = ({ loading, education }) => {
             </div>
           </div>
         </div>
-
       )}
     </>
   );
