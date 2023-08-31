@@ -41,7 +41,8 @@ const Education = ({ loading, education }) => {
   return (
     <>
       {education?.length !== 0 && (
-        <div className="card shadow-lg compact bg-base-100 flex items-center flex-wrap justify-center">
+      <div className="flex items-center flex-wrap justify-center">
+        <div className="card shadow-lg compact bg-base-100">
           <div className="card-body">
             <div className="mx-3">
               <h5 className="card-title">
@@ -74,6 +75,8 @@ const Education = ({ loading, education }) => {
             </div>
           </div>
         </div>
+     </div>
+
       )}
     </>
   );
