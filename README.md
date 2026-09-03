@@ -47,10 +47,20 @@ researcher = {
 
 | Project | What it does |
 | :--- | :--- |
+| [**Counterfactual Ward**](https://github.com/ParisaRostaami/counterfactual-ward) | Smallest change that would flip a clinical risk model (vitals, labs, notes). |
+| [**Jamiton Sentinel**](https://github.com/ParisaRostaami/jamiton-sentinel) | Physics-inspired warning for phantom traffic jams on a ring road. |
+| [**Protolexicon**](https://github.com/ParisaRostaami/protolexicon) | Reconstruct ancestral word forms from Persian and European cognates. |
+| [**Synesthetic Score**](https://github.com/ParisaRostaami/synesthetic-score) | Turn an image into a melody and show which patches drove the notes. |
+| [**Avian Dialects**](https://github.com/ParisaRostaami/avian-dialects) | Classify and morph regional birdsong accents from spectrograms. |
+| [**Dream Cartographer**](https://github.com/ParisaRostaami/dream-cartographer) | Map dream-journal nights into a 2D atlas of recurring images. |
+| [**Recipe Stratigraphy**](https://github.com/ParisaRostaami/recipe-stratigraphy) | Peel modern recipes back through ingredient eras. |
+| [**Anachronism Hunter**](https://github.com/ParisaRostaami/anachronism-hunter) | Flag objects that do not belong in a claimed historical period. |
+| [**Memory Palace Architect**](https://github.com/ParisaRostaami/memory-palace-architect) | Build a walkable mnemonic palace from a list of facts. |
+| [**Mood Meteorology**](https://github.com/ParisaRostaami/mood-meteorology) | Treat public mood as weather and forecast the next day. |
 | [**PersianTextSummarization**](https://github.com/ParisaRostaami/PersianTextSummarization) | Abstractive & extractive summarization of Persian text using a TensorFlow seq2seq encoder–decoder. |
 | [**PersonReidentification**](https://github.com/ParisaRostaami/PersonReidentification) | Matching individuals across camera views with a Siamese network + ResNet50 (Market-1501). |
 | [**Sentiment-Analysis**](https://github.com/ParisaRostaami/Sentiment-Analysis) | Sentiment classification on the UCI *Sentiment Labelled Sentences* (Amazon) dataset. |
-| [**ML2021**](https://github.com/ParisaRostaami/ML2021) | Machine-learning course materials, notes, and notebooks. |
+| [**ImageCaptioning**](https://github.com/ParisaRostaami/ImageCaptioning) | Persian image captions with an LSTM decoder over pretrained CNN encoders. |
 
 ### Tech
 
