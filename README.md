@@ -2,7 +2,7 @@
 
 # Parisa Rostami
 
-**PhD Student · Computer Science & Electrical Engineering**
+**M.S. Student · Computer Science**
 Machine Learning · NLP · Computer Vision · Explainable AI for Healthcare
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parisa-rostami/)
@@ -17,19 +17,19 @@ Machine Learning · NLP · Computer Vision · Explainable AI for Healthcare
 ```python
 researcher = {
     "name":        "Parisa Rostami",
-    "role":        "PhD Student, CS & Electrical Engineering",
+    "role":        "M.S. Student, Computer Science",
     "affiliation": "Wichita State University",
     "focus":       ["NLP", "Computer Vision", "Explainable AI", "Medical Imaging"],
-    "currently":   "Brain tumor segmentation @ SoundMind Neurovision Lab",
+    "previously":  "Brain tumor segmentation @ SoundMind Neurovision Lab",
 }
 ```
 
 ### About
 
-- 🎓 &nbsp;PhD student in Computer Science & Electrical Engineering at **Wichita State University**.
+- 🎓 &nbsp;M.S. student in Computer Science at **Wichita State University** (expected Dec 2026).
 - 🔬 &nbsp;I build deep-learning models for **language, vision, and biomedical signals** — with a focus on making them *explainable*.
 - 🏆 &nbsp;**First Place Paper Award**, Data Science & AI track, KDSC 2026.
-- 🌱 &nbsp;Currently researching **brain tumor segmentation** at the SoundMind Neurovision Innovation Lab.
+- 🌱 &nbsp;Previously researched **brain tumor segmentation** at the SoundMind Neurovision Innovation Lab.
 - 📫 &nbsp;Reach me at **Parisa.rostaamii@gmail.com**.
 
 ### Selected Publications
