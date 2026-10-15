@@ -34,14 +34,14 @@ researcher = {
 
 ### Selected Publications
 
-- 🥇 **Gender-Aware Explainable AI for Parkinson's Detection Using Speech Biomarkers** — *KDSC 2026 · First Place Paper Award*
+- 🥇 **Gender-Aware Explainable AI for Parkinson's Disease Detection Using Speech Biomarkers** — *KDSC 2026 · First Place Paper Award*
   <sub>P. Rostami, A. Fursule</sub>
-- 🧠 **Medical Image Segmentation Using an EfficientNet-based U-Net Architecture** — *Accepted, ICB 2026*
+- 🧠 **Medical Image Segmentation Using EfficientNet-Based U-Net Architecture** — *ICB12, 2024*
   <sub>P. Rostami, M. Nikoseresht, M. Danesh</sub>
-- 🧬 **Ensemble-based VAE for Detecting Protein Complexes in PPI Networks** — *Accepted, ICB 2026*
+- 🧬 **Ensemble Based Variational Autoencoders for Detecting Protein Complexes in Protein–Protein Interaction Networks** — *ICB12, 2024*
   <sub>M. Danesh, P. Rostami</sub>
-- 📈 **Predicting Bitcoin Fluctuations Using Deep Neural Networks** — *IEEE Xplore*
-  <sub>Z. Elahiyan, P. Rostami, R. Javanmard</sub>
+- 📈 **Predicting Bitcoin Fluctuations Using Deep Neural Networks** — *[IEEE ICSPIS 2022](https://doi.org/10.1109/ICSPIS56952.2022.10043940)*
+  <sub>S. Z. Elahiyan, P. Rostami, R. Javanmard Alitappeh</sub>
 
 ### Selected Projects
 
